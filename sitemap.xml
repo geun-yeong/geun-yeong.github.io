@@ -4,7 +4,7 @@
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
         <loc>https://geun-yeong.github.io/</loc>
-        <lastmod>2025-05-20T03:39:00+09:00</lastmod>
+        <lastmod>2025-09-23T15:39:00+01:00</lastmod>
         <priority>1.0</priority>
     </url>
 <!-- for jekyll {% for post in site.posts %}
