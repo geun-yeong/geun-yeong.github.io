@@ -1,0 +1,25 @@
+title: Choi, Geunyeong
+url: "https://geun-yeong.github.io"
+baseurl: ""
+author: "Geunyeong Choi"
+
+markdown: kramdown
+#ins_logo: "./bits-logo.png"
+
+tracking_id: #
+
+footer: yes
+footer_url: "https://github.com/ankitsultana"
+footer_text: "Page design by Ankit Sultana"
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+nav:
+ - name: "Profile"
+   link: "/"
+ - name: "Posts"
+   link: "posts"
+ - name: "Contact"
+   link: "contact"

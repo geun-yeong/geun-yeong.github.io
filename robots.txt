@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://geun-yeong.github.io/sitemap.xml
