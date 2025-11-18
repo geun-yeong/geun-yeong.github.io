@@ -20,6 +20,6 @@ nav:
  - name: "Profile"
    link: "/"
  - name: "Posts"
-   link: "posts"
+   link: "/posts/"
  - name: "Contact"
-   link: "contact"
+   link: "/contact/"

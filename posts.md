@@ -1,9 +1,5 @@
 ---
-layout: default
+layout: posts
+title: Posts
+permalink: /posts/
 ---
-
-## Work in progress...
-
-| 2025-11-15 |
-
-I have worked in progress
