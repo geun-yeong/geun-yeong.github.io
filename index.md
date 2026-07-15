@@ -51,7 +51,7 @@ PhD student in School of Cybersecurity, Korea University
 1. H. Park, **G. Choi**, and J. Park, "A Method for Tracking User’s Routes Based on Android Diagnostic Logs", KDFS Conference on Winter (KDFS-W'24), 2024
 1. Y. Lee, **G. Choi**, and J. Park, "A Study on Methods for Identifying Traces of Web-Based Cryptocurrency Exchange Services", KDFS Conference on Winter (KDFS-W'24), 2024
 1. S. Yun, **G. Choi**, W. Yun, and J. Park, "A Study on User Behavior Analysis Techniques Utilizing macOS Unified Logging Data", KDFS Conference on Summer (KDFS-S'24), 2024
-1. H. Gwon, B. Jeong, **G. Choi**, J. Park, "A study on collecting and normalizing potential digital evidence from Android devices using ADB commands", KDFS Conference on Summer (KDFS-S'23), 2023
+1. H. Gwon, B. Jeong, **G. Choi**, and J. Park, "A study on collecting and normalizing potential digital evidence from Android devices using ADB commands", KDFS Conference on Summer (KDFS-S'23), 2023
 1. **G. Choi**, J. Jeon, S. Jeong, E. Jo, Y. Hwang, H. Nam, K. Kim, and J. Kim, "Forensic analysis of Chinese automatic identification system", KDFS Conference on Winter (KDFS-W'20), 2020
 
 ---
