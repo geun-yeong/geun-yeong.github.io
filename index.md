@@ -38,9 +38,9 @@ PhD student in School of Cybersecurity, Korea University
 ### International
 
 1. J. Lee, **G. Choi**, J. Han, and J. Park, "Advanced Monero Wallet Forensics: Demystifying Off-Chain Artifacts to Trace Privacy-Preserving Cryptocurrency Transactions", DFRWS APAC, 2025 [🔗](https://dfrws.org/presentation/advanced-monero-wallet-forensics-demystifying-off-chain-artifacts-to-trace-privacy-preserving-cryptocurrency-transactions/)
-1. **G. Choi**, J. Bang, S. Lee, and J. Park, "*Chracer*: Memory analysis of Chromium-based browsers", DFRWS APAC, 2023 [🔗](https://dfrws.org/presentation/chracer-memory-analysis-of-chromium-based-browsers/)
-1. S. Cheon, **G. Choi**, and D. Kim, "A Cheating Attack on a Whitelist-based Anti-Ransomware Solution and its Countermeasure", IEEE ICCE, 2023 [🔗](https://doi.org/10.1109/ICCE56470.2023.10043480)
-1. D. Kim, **G. Choi**, and J. Lee, "White List-based Ransomware Real-time Detection and Prevention for User Device Protection", IEEE ICCE, 2018 [🔗](https://doi.org/10.1109/ICCE.2018.8326119)
+1. **G. Choi**, J. Bang, S. Lee, and J. Park, "*Chracer*: Memory analysis of Chromium-based browsers", DFRWS APAC, 2023 [🔗](https://dfrws.org/presentation/chracer-memory-analysis-of-chromium-based-browsers/) [📰]({% post_url 2023-10-18-DFRWS_APAC %})
+1. S. Cheon, **G. Choi**, and D. Kim, "A Cheating Attack on a Whitelist-based Anti-Ransomware Solution and its Countermeasure", IEEE ICCE, 2023 [🔗](https://doi.org/10.1109/ICCE56470.2023.10043480) [📰]({% post_url 2023-01-06-IEEE_ICCE %})
+1. D. Kim, **G. Choi**, and J. Lee, "White List-based Ransomware Real-time Detection and Prevention for User Device Protection", IEEE ICCE, 2018 [🔗](https://doi.org/10.1109/ICCE.2018.8326119) 
 
 ### Domestic
 
