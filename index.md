@@ -8,7 +8,7 @@ layout: default
 
 PhD student in School of Cybersecurity, Korea University
 
-### Research Interest
+### Research Interests
 
 - Cybersecurity 🛡️
 - Digital Forensics 🎓
@@ -24,7 +24,7 @@ PhD student in School of Cybersecurity, Korea University
 
 ---
 
-## Experience
+## Experiences
 
 2025.09 - 2026.02 | Visiting Student at Kellogg College, University of Oxford
 2022.03 - Present | Full-time Researcher at Digital Forensics Lab, Korea University
@@ -75,17 +75,27 @@ PhD student in School of Cybersecurity, Korea University
 
 --- 
 
-## Presentation
+## Presentations
 
 - "Investigation of copyright infringment site usage traces through memory forensics", KSIE Conference on Fall, 2023
 - "*Chracer*: Memory analysis of Chromium-based browsers", DFRWS APAC, 2023
+- "Hands-on Training for Memory Forensics", Digital Forensics Workshop for Anti-Forensics Technology (held by DFRC at Korea University and Plainbit Co., Ltd.), 2023
 - "A study on collecting and normalizing potential digital evidence from Android devices using ADB commands", KDFS Conference on Summer, 2023
 - "A Cheating Attack on a Whitelist-based Anti-Ransomware Solution and its Countermeasure", IEEE ICCE, 2023
+- "Analysis of EVBOX Streaming and VOD Application", Korea University Copyright Digital Forensics Seminar (held by School of Cybersecurity, Korea University and Korea Copyright Protection Agency), 2022
 - "File Access Monitoring using File System Filter Driver", U.U.U Workshop, 2017
 
 ---
 
-## Prize and Honor
+## Other Activities
+
+- Exhibitor of "Digital Forensic Solution for Counter Anti-Forensics", Korea Police World Expo 2024 at Incheon, South Korea
+- Exhibitor of "Digital Forensic Solution for Counter Anti-Forensics", Korea Police World Expo 2023 at Incheon, South Korea
+- Exhibitor of "Digital Forensic Solution for Counter Anti-Forensics", Korea Police World Expo 2022 at Incheon, South Korea
+
+---
+
+## Prizes and Honors
 
 - Best Poster, DFRWS APAC, 2025 <br/>
   <span style="font-size: 0.8rem; font-style: italic; color: darkgray">Paper: "LLM-Assisted Detection of Suspicious Conversations Using NER and RAG-Based Candidate Message Retrieval"</span> 
@@ -107,6 +117,21 @@ PhD student in School of Cybersecurity, Korea University
 - Bronze Medal <span style="font-size: 0.8rem;">(3rd place)</span>, The 49th National Skills Competition, 2014
 - Bronze Prize <span style="font-size: 0.8rem;">(3rd place)</span>, NetRiders Korea 2014 - The 10th Skill Competition, 2014
 - Excellence Prize, The 48th National Skills Competition, 2013
+
+---
+
+## Projects
+
+- Development of Forensic Technologies for On-Device AI Models (온디바이스 인공지능 모델 대상 포렌식 기술개발)<br/>
+  <span style="font-size: 0.8rem; font-style: italic; color: darkgray">supported by KIPoT and funded by KNPA, participated in 2026-Present</span>
+- On-site preprocessing-based Anti-Anti-Forensics Data Analysis Technology (현장 선처리 기반 안티-포렌식 대응 데이터 분석기술)<br/>
+  <span style="font-size: 0.8rem; font-style: italic; color: darkgray">supported by COMPA and funded by MSIT and KNPA, participated in 2025-Present</span>
+- Development of Digital Asset Transaction Tracking Technology to Prevent Malicious Financial Conduct in the Digital Asset Market (디지털 자산 시장에서의 악의적 금융 행위 방지를 위한 디지털 자산 거래 추적기술 개발)<br/>
+  <span style="font-size: 0.8rem; font-style: italic; color: darkgray">supported by IITP and funded by MSIT, participated in 2024-Present</span>
+- Research on Data Acquisition and Analysis for Counter Anti-Forensics (안티-포렌식 기술 대응을 위한 데이터 획득 및 분석 기술 연구)<br/>
+  <span style="font-size: 0.8rem; font-style: italic; color: darkgray">supported by KIPoT and funded by MSIT and KNPA, participated in 2022-2024</span>
+- Development of Digital Evidence Analysis Technique Using Artificial Intelligence Technology (인공지능 기술 활용 디지털증거 분석 기법 개발)<br/>
+  <span style="font-size: 0.8rem; font-style: italic; color: darkgray">supported by IITP and funded by MSIT, participated in 2022-2025</span>
 
 ---
 
