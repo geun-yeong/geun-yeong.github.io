@@ -6,7 +6,8 @@ layout: default
 
 <a href="me.jpg"><img class="profile-picture" src="me.jpg"></a>
 
-PhD student in School of Cybersecurity, Korea University
+- PhD student in School of Cybersecurity, Korea University
+- Researcher at Digital Forensics Lab of Korea University
 
 ### Research Interests
 
@@ -77,6 +78,7 @@ PhD student in School of Cybersecurity, Korea University
 
 ## Presentations
 
+- "Development of Off-Chain Data Forensic System Against Cryptocurrency Transaction Obfuscation", ROK-U.S. Joint Seminar for Development of Digital Asset Transaction Tracking Techology to Prevent Malicious Financial Activities in the Digital Asset Market, 2026 [📰]({% post_url 2026-08-31-ROKUS_JOINT_SEMINAR %})
 - "Investigation of copyright infringment site usage traces through memory forensics", KSIE Conference on Fall, 2023
 - "*Chracer*: Memory analysis of Chromium-based browsers", DFRWS APAC, 2023
 - "Hands-on Training for Memory Forensics", Digital Forensics Workshop for Anti-Forensics Technology (held by DFRC at Korea University and Plainbit Co., Ltd.), 2023
@@ -122,6 +124,8 @@ PhD student in School of Cybersecurity, Korea University
 
 ## Projects
 
+- Research on AI-Based Log Analysis Technology for Initial Response to Personal Data Breach Incidents (개인정보 유출사고 초동대응 특화 기반 로그 AI 통합분석 기술 연구)<br/>
+  <span style="font-size: 0.8rem; font-style: italic; color: darkgray">supported by KISA and funded by MSIT, participated in 2026-Present</span>
 - Development of Forensic Technologies for On-Device AI Models (온디바이스 인공지능 모델 대상 포렌식 기술개발)<br/>
   <span style="font-size: 0.8rem; font-style: italic; color: darkgray">supported by KIPoT and funded by KNPA, participated in 2026-Present</span>
 - On-site preprocessing-based Anti-Anti-Forensics Data Analysis Technology (현장 선처리 기반 안티-포렌식 대응 데이터 분석기술)<br/>
