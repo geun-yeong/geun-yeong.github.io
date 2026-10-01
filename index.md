@@ -126,6 +126,8 @@ layout: default
 
 - Research on AI-Based Log Analysis Technology for Initial Response to Personal Data Breach Incidents (개인정보 유출사고 초동대응 특화 기반 로그 AI 통합분석 기술 연구)<br/>
   <span style="font-size: 0.8rem; font-style: italic; color: darkgray">supported by KISA and funded by MSIT, participated in 2026-Present</span>
+- Empirical Analysis of Privacy Risks in Agentic AI (에이전틱 AI 분야 개인정보 침해위험 실증분석)<br/>
+  <span style="font-size: 0.8rem; font-style: italic; color: darkgray">supported and funded by PIPC, participated in 2026-Present</span>
 - Development of Forensic Technologies for On-Device AI Models (온디바이스 인공지능 모델 대상 포렌식 기술개발)<br/>
   <span style="font-size: 0.8rem; font-style: italic; color: darkgray">supported by KIPoT and funded by KNPA, participated in 2026-Present</span>
 - On-site preprocessing-based Anti-Anti-Forensics Data Analysis Technology (현장 선처리 기반 안티-포렌식 대응 데이터 분석기술)<br/>
