@@ -38,10 +38,14 @@ layout: default
 
 ### International
 
-1. J. Lee, **G. Choi**, J. Han, and J. Park, "Advanced Monero Wallet Forensics: Demystifying Off-Chain Artifacts to Trace Privacy-Preserving Cryptocurrency Transactions", DFRWS APAC, 2025 [🔗](https://dfrws.org/presentation/advanced-monero-wallet-forensics-demystifying-off-chain-artifacts-to-trace-privacy-preserving-cryptocurrency-transactions/)
-1. **G. Choi**, J. Bang, S. Lee, and J. Park, "*Chracer*: Memory analysis of Chromium-based browsers", DFRWS APAC, 2023 [🔗](https://dfrws.org/presentation/chracer-memory-analysis-of-chromium-based-browsers/) [📰]({% post_url 2023-10-18-DFRWS_APAC %})
-1. S. Cheon, **G. Choi**, and D. Kim, "A Cheating Attack on a Whitelist-based Anti-Ransomware Solution and its Countermeasure", IEEE ICCE, 2023 [🔗](https://doi.org/10.1109/ICCE56470.2023.10043480) [📰]({% post_url 2023-01-06-IEEE_ICCE %})
-1. D. Kim, **G. Choi**, and J. Lee, "White List-based Ransomware Real-time Detection and Prevention for User Device Protection", IEEE ICCE, 2018 [🔗](https://doi.org/10.1109/ICCE.2018.8326119) 
+1. J. Lee, **G. Choi**, J. Han, and J. Park, "Advanced Monero Wallet Forensics: Demystifying Off-Chain Artifacts to Trace Privacy-Preserving Cryptocurrency Transactions", DFRWS APAC, 2025<br/>
+  [🔗](https://dfrws.org/presentation/advanced-monero-wallet-forensics-demystifying-off-chain-artifacts-to-trace-privacy-preserving-cryptocurrency-transactions/)
+1. **G. Choi**, J. Bang, S. Lee, and J. Park, "*Chracer*: Memory analysis of Chromium-based browsers", DFRWS APAC, 2023<br/>
+  [🔗](https://dfrws.org/presentation/chracer-memory-analysis-of-chromium-based-browsers/) [📰]({% post_url 2023-10-18-DFRWS_APAC %})
+1. S. Cheon, **G. Choi**, and D. Kim, "A Cheating Attack on a Whitelist-based Anti-Ransomware Solution and its Countermeasure", IEEE ICCE, 2023<br/>
+  [🔗](https://doi.org/10.1109/ICCE56470.2023.10043480) [📰]({% post_url 2023-01-06-IEEE_ICCE %})
+1. D. Kim, **G. Choi**, and J. Lee, "White List-based Ransomware Real-time Detection and Prevention for User Device Protection", IEEE ICCE, 2018<br/>
+  [🔗](https://doi.org/10.1109/ICCE.2018.8326119) 
 
 ### Domestic
 
@@ -61,29 +65,41 @@ layout: default
 
 ### International
 
-1. J. Lee, **G. Choi**, J. Han, and J. Park, "Advanced Monero Wallet Forensics: Demystifying Off-Chain Artifacts to Trace Privacy-Preserving Cryptocurrency Transactions", Forensic Science International: Digital Investigation, Vol. 54 Supplement, 2025 [🔗](https://doi.org/10.1016/j.fsidi.2025.301988)
-1. **G. Choi**, J. Bang, S. Lee, and J. Park, "*Chracer*: Memory analysis of Chromium-based browsers", Forensic Science International: Digital Investigation, Vol. 46 Supplement, 2023 [🔗](https://doi.org/10.1016/j.fsidi.2023.301613)
+1. J. Lee, **G. Choi**, J. Han, and J. Park, "Advanced Monero Wallet Forensics: Demystifying Off-Chain Artifacts to Trace Privacy-Preserving Cryptocurrency Transactions", Forensic Science International: Digital Investigation, Vol. 54 Supplement, 2025<br/>
+  [🔗](https://doi.org/10.1016/j.fsidi.2025.301988)
+1. **G. Choi**, J. Bang, S. Lee, and J. Park, "*Chracer*: Memory analysis of Chromium-based browsers", Forensic Science International: Digital Investigation, Vol. 46 Supplement, 2023<br/>
+  [🔗](https://doi.org/10.1016/j.fsidi.2023.301613)
 
 ### Domestic
 
-1. H. Park, **G. Choi**, and J. Park, "A Study on Automating Forensic Artifact Identification and Change Tracking for Electron-based Applications", Journal of Digital Forensics, Vol. 19, No. 4, 2025 [🔗](https://doi.org/10.22798/KDFS.2025.19.4.81)
-1. Y. Jeon, **G. Choi**, and J. Park, "A Study on Forensic Analysis Methods for STT (Speech-To-Text) Applications in Android Environments", Journal of The Korea Institute of Information Security and Cryptology, Vol. 35, No. 4, 2025 [🔗](https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART003233052)
-1. Y. Lee, **G. Choi**, and J. Park, "A Study on Methods for Identifying Traces of Web-Based Cryptocurrency Exchange Services", Journal of Digital Forensics, Vol. 19, No. 2, 2025 [🔗](https://doi.org/10.22798/kdfs.2025.19.2.99)
-1. S. Yun, **G. Choi**, and J. Park, "A Study on User Behavior Analysis Techniques Leveraging macOS's Apple Unified Log", Journal of Digital Forensics, Vol. 18, No. 5, 2024 [🔗](https://doi.org/10.22798/KDFS.2024.18.5.50)
-1. H. Gwon, B. Jeong, **G. Choi**, and J. Park, "Research on Method for Analyzing and Normalizing Android Diagnostic Logs for Digital Forensics", Journal of Digital Forensics, Vol. 17, No. 3, 2023 [🔗](https://doi.org/10.22798/KDFS.2023.17.3.52)
-1. J. Choi, **G. Choi**, and S. Lee, "Tracing Copyright Infringement Activities through Illegal Streaming Device Protocol Analysis", Journal of Digital Forensics, Vol. 17, No. 2, 2023 [🔗](https://doi.org/10.22798/KDFS.2023.17.2.62)
-1. S. Jeong, **G. Choi**, J. Jeon, E. Jo, Y. Hwang, H. Nam, K. Kim, and J. Kim, "Collection and Analysis Methods of Automatic Identification System Artifacts", Journal of Digital Forensics, Vol. 15, No. 1, 2021 [🔗](https://doi.org/10.22798/KDFS.2021.15.1.95)
+1. H. Park, **G. Choi**, and J. Park, "A Study on Automating Forensic Artifact Identification and Change Tracking for Electron-based Applications", Journal of Digital Forensics, Vol. 19, No. 4, 2025<br/>
+  [🔗](https://doi.org/10.22798/KDFS.2025.19.4.81)
+1. Y. Jeon, **G. Choi**, and J. Park, "A Study on Forensic Analysis Methods for STT (Speech-To-Text) Applications in Android Environments", Journal of The Korea Institute of Information Security and Cryptology, Vol. 35, No. 4, 2025<br/>
+  [🔗](https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART003233052)
+1. Y. Lee, **G. Choi**, and J. Park, "A Study on Methods for Identifying Traces of Web-Based Cryptocurrency Exchange Services", Journal of Digital Forensics, Vol. 19, No. 2, 2025<br/>
+  [🔗](https://doi.org/10.22798/kdfs.2025.19.2.99)
+1. S. Yun, **G. Choi**, and J. Park, "A Study on User Behavior Analysis Techniques Leveraging macOS's Apple Unified Log", Journal of Digital Forensics, Vol. 18, No. 5, 2024<br/>
+  [🔗](https://doi.org/10.22798/KDFS.2024.18.5.50)
+1. H. Gwon, B. Jeong, **G. Choi**, and J. Park, "Research on Method for Analyzing and Normalizing Android Diagnostic Logs for Digital Forensics", Journal of Digital Forensics, Vol. 17, No. 3, 2023<br/>
+  [🔗](https://doi.org/10.22798/KDFS.2023.17.3.52)
+1. J. Choi, **G. Choi**, and S. Lee, "Tracing Copyright Infringement Activities through Illegal Streaming Device Protocol Analysis", Journal of Digital Forensics, Vol. 17, No. 2, 2023<br/>
+  [🔗](https://doi.org/10.22798/KDFS.2023.17.2.62)
+1. S. Jeong, **G. Choi**, J. Jeon, E. Jo, Y. Hwang, H. Nam, K. Kim, and J. Kim, "Collection and Analysis Methods of Automatic Identification System Artifacts", Journal of Digital Forensics, Vol. 15, No. 1, 2021<br/>
+  [🔗](https://doi.org/10.22798/KDFS.2021.15.1.95)
 
 --- 
 
 ## Presentations
 
-- "Development of Off-Chain Data Forensic System Against Cryptocurrency Transaction Obfuscation", ROK-U.S. Joint Seminar for Development of Digital Asset Transaction Tracking Techology to Prevent Malicious Financial Activities in the Digital Asset Market, 2026 [📰]({% post_url 2026-08-31-ROKUS_JOINT_SEMINAR %})
+- "Development of Off-Chain Data Forensic System Against Cryptocurrency Transaction Obfuscation", ROK-U.S. Joint Seminar for Development of Digital Asset Transaction Tracking Techology to Prevent Malicious Financial Activities in the Digital Asset Market, 2026<br/>
+  [📰]({% post_url 2026-08-31-ROKUS_JOINT_SEMINAR %})
 - "Investigation of copyright infringment site usage traces through memory forensics", KSIE Conference on Fall, 2023
-- "*Chracer*: Memory analysis of Chromium-based browsers", DFRWS APAC, 2023
+- "*Chracer*: Memory analysis of Chromium-based browsers", DFRWS APAC, 2023<br/>
+  [📰]({% post_url 2023-10-18-DFRWS_APAC %})
 - "Hands-on Training for Memory Forensics", Digital Forensics Workshop for Anti-Forensics Technology (held by DFRC at Korea University and Plainbit Co., Ltd.), 2023
 - "A study on collecting and normalizing potential digital evidence from Android devices using ADB commands", KDFS Conference on Summer, 2023
-- "A Cheating Attack on a Whitelist-based Anti-Ransomware Solution and its Countermeasure", IEEE ICCE, 2023
+- "A Cheating Attack on a Whitelist-based Anti-Ransomware Solution and its Countermeasure", IEEE ICCE, 2023<br/>
+  [📰]({% post_url 2023-01-06-IEEE_ICCE %})
 - "Analysis of EVBOX Streaming and VOD Application", Korea University Copyright Digital Forensics Seminar (held by School of Cybersecurity, Korea University and Korea Copyright Protection Agency), 2022
 - "File Access Monitoring using File System Filter Driver", U.U.U Workshop, 2017
 
@@ -124,17 +140,23 @@ layout: default
 
 ## Projects
 
-- Research on AI-Based Log Analysis Technology for Initial Response to Personal Data Breach Incidents (개인정보 유출사고 초동대응 특화 기반 로그 AI 통합분석 기술 연구)<br/>
+- Research on AI-Based Log Analysis Technology for Initial Response to Personal Data Breach Incidents<br/>
+  개인정보 유출사고 초동대응 특화 기반 로그 AI 통합분석 기술 연구<br/>
   <span style="font-size: 0.8rem; font-style: italic; color: darkgray">supported by KISA and funded by MSIT, participated in 2026-Present</span>
-- Development of Forensic Technologies for On-Device AI Models (온디바이스 인공지능 모델 대상 포렌식 기술개발)<br/>
+- Development of Forensic Technologies for On-Device AI Models<br/>
+  온디바이스 인공지능 모델 대상 포렌식 기술개발<br/>
   <span style="font-size: 0.8rem; font-style: italic; color: darkgray">supported by KIPoT and funded by KNPA, participated in 2026-Present</span>
-- On-site preprocessing-based Anti-Anti-Forensics Data Analysis Technology (현장 선처리 기반 안티-포렌식 대응 데이터 분석기술)<br/>
+- On-site preprocessing-based Anti-Anti-Forensics Data Analysis Technology<br/>
+  현장 선처리 기반 안티-포렌식 대응 데이터 분석기술<br/>
   <span style="font-size: 0.8rem; font-style: italic; color: darkgray">supported by COMPA and funded by MSIT and KNPA, participated in 2025-Present</span>
-- Development of Digital Asset Transaction Tracking Technology to Prevent Malicious Financial Conduct in the Digital Asset Market (디지털 자산 시장에서의 악의적 금융 행위 방지를 위한 디지털 자산 거래 추적기술 개발)<br/>
+- Development of Digital Asset Transaction Tracking Technology to Prevent Malicious Financial Conduct in the Digital Asset Market<br/>
+  디지털 자산 시장에서의 악의적 금융 행위 방지를 위한 디지털 자산 거래 추적기술 개발<br/>
   <span style="font-size: 0.8rem; font-style: italic; color: darkgray">supported by IITP and funded by MSIT, participated in 2024-Present</span>
-- Research on Data Acquisition and Analysis for Counter Anti-Forensics (안티-포렌식 기술 대응을 위한 데이터 획득 및 분석 기술 연구)<br/>
+- Research on Data Acquisition and Analysis for Counter Anti-Forensics<br/>
+  안티-포렌식 기술 대응을 위한 데이터 획득 및 분석 기술 연구<br/>
   <span style="font-size: 0.8rem; font-style: italic; color: darkgray">supported by KIPoT and funded by MSIT and KNPA, participated in 2022-2024</span>
-- Development of Digital Evidence Analysis Technique Using Artificial Intelligence Technology (인공지능 기술 활용 디지털증거 분석 기법 개발)<br/>
+- Development of Digital Evidence Analysis Technique Using Artificial Intelligence Technology<br/>
+  인공지능 기술 활용 디지털증거 분석 기법 개발<br/>
   <span style="font-size: 0.8rem; font-style: italic; color: darkgray">supported by IITP and funded by MSIT, participated in 2022-2025</span>
 
 ---
