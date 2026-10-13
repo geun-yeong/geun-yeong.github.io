@@ -17,11 +17,13 @@ layout: default
 
 ### Links
 
-- [Blog](https://geun-yeong.tistory.com)
-- [Github](https://github.com/geun-yeong)
-- [Scholar](https://scholar.google.com/citations?user=0RYB4wYAAAAJ&hl=ko)
-- [LinkedIn](https://linkedin.com/in/geunyeong)
-- [Laboratory](https://dfrc.korea.ac.kr)
+<a href="https://geun-yeong.tistory.com"><img src="https://img.shields.io/badge/Blog-black?style=for-the-badge&logo=tistory&logoColor=white" alt="Static Badge" style="width: auto; height: auto;"></a>
+<a href="https://github.com/geun-yeong"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Static Badge" style="width: auto; height: auto;"></a>
+<a href="https://scholar.google.com/citations?user=0RYB4wYAAAAJ"><img src="https://img.shields.io/badge/Scholar-black?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Static Badge" style="width: auto; height: auto;"></a>
+<a href="https://linkedin.com/in/geunyeong"><img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logoColor=white" alt="Static Badge" style="width: auto; height: auto;"></a>
+<a href="https://dfrc.korea.ac.kr"><img src="https://img.shields.io/badge/DFRC-black?style=for-the-badge&logoColor=white" alt="Static Badge" style="width: auto; height: auto;"></a>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=geun-yeong&hide=contribs,prs&show_icons=true&theme=graywhite)
 
 ---
 
@@ -142,25 +144,41 @@ layout: default
 
 - Research on AI-Based Log Analysis Technology for Initial Response to Personal Data Breach Incidents<br/>
   개인정보 유출사고 초동대응 특화 기반 로그 AI 통합분석 기술 연구<br/>
-  <span style="font-size: 0.8rem; font-style: italic; color: darkgray">supported by KISA and funded by MSIT, participated in 2026-Present</span>
+  <img src="https://img.shields.io/badge/Supported-KISA-blue" alt="Static Badge" style="width: auto; height: auto;">
+  <img src="https://img.shields.io/badge/Funded-MSIT-orange" alt="Static Badge" style="width: auto; height: auto;">
+  <img src="https://img.shields.io/badge/Participated-2026--Present-green" alt="Static Badge" style="width: auto; height: auto;">
 - Empirical Analysis of Privacy Risks in Agentic AI<br/>
   에이전틱 AI 분야 개인정보 침해위험 실증분석<br/>
-  <span style="font-size: 0.8rem; font-style: italic; color: darkgray">supported and funded by PIPC, participated in 2026-Present</span>
+  <img src="https://img.shields.io/badge/Supported-PIPC-blue" alt="Static Badge" style="width: auto; height: auto;">
+  <img src="https://img.shields.io/badge/Funded-PIPC-orange" alt="Static Badge" style="width: auto; height: auto;">
+  <img src="https://img.shields.io/badge/Participated-2026--Present-green" alt="Static Badge" style="width: auto; height: auto;">
 - Development of Forensic Technologies for On-Device AI Models<br/>
   온디바이스 인공지능 모델 대상 포렌식 기술개발<br/>
-  <span style="font-size: 0.8rem; font-style: italic; color: darkgray">supported by KIPoT and funded by KNPA, participated in 2026-Present</span>
+  <img src="https://img.shields.io/badge/Supported-KIPoT-blue" alt="Static Badge" style="width: auto; height: auto;">
+  <img src="https://img.shields.io/badge/Funded-KNPA-orange" alt="Static Badge" style="width: auto; height: auto;">
+  <img src="https://img.shields.io/badge/Participated-2026--Present-green" alt="Static Badge" style="width: auto; height: auto;">
 - On-site preprocessing-based Anti-Anti-Forensics Data Analysis Technology<br/>
   현장 선처리 기반 안티-포렌식 대응 데이터 분석기술<br/>
-  <span style="font-size: 0.8rem; font-style: italic; color: darkgray">supported by COMPA and funded by MSIT and KNPA, participated in 2025-Present</span>
+  <img src="https://img.shields.io/badge/Supported-COMPA-blue" alt="Static Badge" style="width: auto; height: auto;">
+  <img src="https://img.shields.io/badge/Funded-KNPA-orange" alt="Static Badge" style="width: auto; height: auto;">
+  <img src="https://img.shields.io/badge/Co--Funded-MSIT-orange" alt="Static Badge" style="width: auto; height: auto;">
+  <img src="https://img.shields.io/badge/Participated-2025--Present-green" alt="Static Badge" style="width: auto; height: auto;">
 - Development of Digital Asset Transaction Tracking Technology to Prevent Malicious Financial Conduct in the Digital Asset Market<br/>
   디지털 자산 시장에서의 악의적 금융 행위 방지를 위한 디지털 자산 거래 추적기술 개발<br/>
-  <span style="font-size: 0.8rem; font-style: italic; color: darkgray">supported by IITP and funded by MSIT, participated in 2024-Present</span>
+  <img src="https://img.shields.io/badge/Supported-IITP-blue" alt="Static Badge" style="width: auto; height: auto;">
+  <img src="https://img.shields.io/badge/Funded-MSIT-orange" alt="Static Badge" style="width: auto; height: auto;">
+  <img src="https://img.shields.io/badge/Participated-2024--Present-green" alt="Static Badge" style="width: auto; height: auto;">
 - Research on Data Acquisition and Analysis for Counter Anti-Forensics<br/>
   안티-포렌식 기술 대응을 위한 데이터 획득 및 분석 기술 연구<br/>
-  <span style="font-size: 0.8rem; font-style: italic; color: darkgray">supported by KIPoT and funded by MSIT and KNPA, participated in 2022-2024</span>
+  <img src="https://img.shields.io/badge/Supported-KIPoT-blue" alt="Static Badge" style="width: auto; height: auto;">
+  <img src="https://img.shields.io/badge/Funded-KNPA-orange" alt="Static Badge" style="width: auto; height: auto;">
+  <img src="https://img.shields.io/badge/Co--Funded-MSIT-orange" alt="Static Badge" style="width: auto; height: auto;">
+  <img src="https://img.shields.io/badge/Participated-2022--2024-red" alt="Static Badge" style="width: auto; height: auto;">
 - Development of Digital Evidence Analysis Technique Using Artificial Intelligence Technology<br/>
   인공지능 기술 활용 디지털증거 분석 기법 개발<br/>
-  <span style="font-size: 0.8rem; font-style: italic; color: darkgray">supported by IITP and funded by MSIT, participated in 2022-2025</span>
+  <img src="https://img.shields.io/badge/Supported-IITP-blue" alt="Static Badge" style="width: auto; height: auto;">
+  <img src="https://img.shields.io/badge/Funded-MSIT-orange" alt="Static Badge" style="width: auto; height: auto;">
+  <img src="https://img.shields.io/badge/Participated-2022--2025-red" alt="Static Badge" style="width: auto; height: auto;">
 
 ---
 
