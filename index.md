@@ -187,3 +187,20 @@ layout: default
 - PhD, Korea University (2024 - Present)
 - MS, Korea University (2022 - 2024)
 - BE, University of Suwon (2016 - 2022)
+
+
+
+<details class="section-menu">
+  <summary>Sections</summary>
+  <nav aria-label="Shortcuts">
+    <a href="#about-me">About Me</a>
+    <a href="#experiences">Experiences</a>
+    <a href="#conference">Conference</a>
+    <a href="#journal">Journal</a>
+    <a href="#presentations">Presentations</a>
+    <a href="#other-activities">Other Activities</a>
+    <a href="#prizes-and-honors">Prizes and Honors</a>
+    <a href="#projects">Projects</a>
+    <a href="#education">Education</a>
+  </nav>
+</details>
