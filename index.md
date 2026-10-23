@@ -109,9 +109,13 @@ layout: default
 
 ## Other Activities
 
-- Exhibitor of "Digital Forensic Solution for Counter Anti-Forensics", Korea Police World Expo 2024 at Incheon, South Korea
-- Exhibitor of "Digital Forensic Solution for Counter Anti-Forensics", Korea Police World Expo 2023 at Incheon, South Korea
-- Exhibitor of "Digital Forensic Solution for Counter Anti-Forensics", Korea Police World Expo 2022 at Incheon, South Korea
+- Exhibitor of "Digital Forensic Solution for Counter Anti-Forensics", Korea Police World Expo 2026 at Incheon, South Korea
+- Exhibitor of "Digital Forensic Solution for Counter Anti-Forensics", Korea Police World Expo 2024 at Incheon, South Korea<br/>
+  [🔗](https://scs.korea.ac.kr/m06_07/225)
+- Exhibitor of "Digital Forensic Solution for Counter Anti-Forensics", Korea Police World Expo 2023 at Incheon, South Korea<br/>
+  [🔗](https://www.kdpress.co.kr/news/articleView.html?idxno=123206)
+- Exhibitor of "Digital Forensic Solution for Counter Anti-Forensics", Korea Police World Expo 2022 at Incheon, South Korea<br/>
+  [🔗](https://www.discoverynews.kr/news/articleView.html?idxno=891794)
 
 ---
 
@@ -142,6 +146,11 @@ layout: default
 
 ## Projects
 
+- Development of an AI Foundation Model for Building Self-Reliant National Cybersecurity Capabilities<br/>
+  국가 사이버 안보 역량 내재화를 위한 AI 파운데이션 모델 개발<br/>
+  <img src="https://img.shields.io/badge/Supported-NIPA-blue" alt="Static Badge" style="width: auto; height: auto;">
+  <img src="https://img.shields.io/badge/Funded-MSIT-orange" alt="Static Badge" style="width: auto; height: auto;">
+  <img src="https://img.shields.io/badge/Participated-2026--Present-green" alt="Static Badge" style="width: auto; height: auto;">
 - Research on AI-Based Log Analysis Technology for Initial Response to Personal Data Breach Incidents<br/>
   개인정보 유출사고 초동대응 특화 기반 로그 AI 통합분석 기술 연구<br/>
   <img src="https://img.shields.io/badge/Supported-KISA-blue" alt="Static Badge" style="width: auto; height: auto;">
