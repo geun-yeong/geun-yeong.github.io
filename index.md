@@ -111,7 +111,7 @@ layout: default
 
 - Exhibitor of "Digital Forensic Solution for Counter Anti-Forensics", Korea Police World Expo 2026 at Incheon, South Korea
 - Exhibitor of "Digital Forensic Solution for Counter Anti-Forensics", Korea Police World Expo 2024 at Incheon, South Korea<br/>
-  [🔗](https://scs.korea.ac.kr/m06_07/225)
+  [🔗](https://security.korea.ac.kr/m06_07/225)
 - Exhibitor of "Digital Forensic Solution for Counter Anti-Forensics", Korea Police World Expo 2023 at Incheon, South Korea<br/>
   [🔗](https://www.kdpress.co.kr/news/articleView.html?idxno=123206)
 - Exhibitor of "Digital Forensic Solution for Counter Anti-Forensics", Korea Police World Expo 2022 at Incheon, South Korea<br/>
