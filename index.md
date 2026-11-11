@@ -51,6 +51,9 @@ layout: default
 
 ### Domestic
 
+1. S. Razafiarison, **G. Choi**, W. Yun, and J. Park, "Memory Forensics and Model Reconstruction for NVIDIA Jetson Orin AI Edge Devices", KDFS Conference on Winter (KDFS-W'26), 2026
+1. B. S. Gebrehiwot, **G. Choi**, and J. Park, "Building a Forensic Artifact Knowledge Base for Investigating the Use of Web-Based Custodial Cryptocurrency Mixers", KDFS Conference on Winter (KDFS-W'26), 2026
+1. J. Park, **G. Choi**, and J. Park, "A Study on Evidence Analysis for LLM Gateway Incident Investigation: Focusing on LiteLLM", KDFS Conference on Winter (KDFS-W'26), 2026
 1. S. Yu, **G. Choi**, and J. Park, "Analysis of Man-in-the-Middle Attack Techniques and Approaches to Enhancing Incident Response Readiness in MCP-Based AI Systems", KDFS Conference on Summer (KDFS-S'26), 2026
 1. N. Jeon, W. Yun, **G. Choi**, and J. Park, "A Study on Identifying File Activity Logs via Internal API Traffic Analysis of Cloud Storage Services", Conference on Information Security and Cryptography Summer (CISC-S'26), 2026
 1. H. Gil, **G. Choi**, and J. Park, "LLM-Assisted Detection of Suspicious Conversations Using NER and RAG-Based Candidate Message Retrieval", KDFS Conference on Winter (KDFS-W'25), 2025
