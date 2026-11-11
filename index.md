@@ -124,6 +124,7 @@ layout: default
 
 ## Prizes and Honors
 
+- Top Prize <span style="font-size: 0.8rem;">(1st place)</span>, Copyright Illicit Site OSINT Challenge, 2026 <br/>
 - Best Poster, DFRWS APAC, 2025 <br/>
   <span style="font-size: 0.8rem; font-style: italic; color: darkgray">Paper: "LLM-Assisted Detection of Suspicious Conversations Using NER and RAG-Based Candidate Message Retrieval"</span> 
 - Best Paper <span style="font-size: 0.8rem;">(issued by Commissioner General of Korea Coast Guard)</span>, KDFS-W'25, 2025 <br/>
