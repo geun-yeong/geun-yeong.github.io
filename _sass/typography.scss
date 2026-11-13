@@ -8,7 +8,6 @@
         counter-reset: list;
     }
     ol > li {
-        list-style-position: none;
         position: relative;
         list-style: none;
         margin-top: 15px;
@@ -21,13 +20,15 @@
         padding: 0 20px 0 20px;;
     }
     ol {
-        padding: 0 30px 0 30px;
+        padding: 0 30px 0 6ch;
     }
     ol > li:before {
-        content: "[" counter(list, decimal) "] ";
+        content: "[" counter(list, decimal) "]";
         counter-increment: list;
         position: absolute;
-        left: -30px;
+        right: 100%;
+        margin-right: 1ch;
+        white-space: nowrap;
     }
     blockquote {
         //border: 1px solid black;
